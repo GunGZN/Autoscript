@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/playlist?list=PLzBcA76rWoRg98Ef6hva_6S-Txl35Wl5p" target="_blank"><img src="https://img.shields.io/badge/-📺 Tutorials-blue.svg"></a>
 <a href="https://github.com/24clan/Autoscript/blob/master/contact.md" target="_blank"><img src="https://img.shields.io/badge/-📲 Contact-blue.svg"></a>
 </p>
-<h1 align="center">Lee Dzung Autoscript</h1> 
+<h1 align="center">Lee GunX Dzung Autoscript</h1> 
 <p align="center"><a href="https://telegram.me/LeeDzung" target="_blank"><img src="https://img.shields.io/badge/%2B60146463183-Whatsapp%2FTelegram-brightgreen.svg"></a> 
 <p align="center"><a href="http://www.24clant.net" target="_blank"><img src="https://img.shields.io/badge/Website%20-Lee%20Dzung%20Autoscript-red.svg"></a>
 </p>
